@@ -1,5 +1,5 @@
 ---
-title:
+title: Home
 ---
 
 # Code of Conduct
