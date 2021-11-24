@@ -1,3 +1,7 @@
+---
+title:
+---
+
 # Code of Conduct
 
 We shouldn't need it, but DC441905 operates the below code of conduct. By attending meets or joining the Discord servers you agree to abide by the below.
