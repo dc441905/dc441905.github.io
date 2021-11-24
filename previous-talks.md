@@ -83,7 +83,7 @@ November 2020:
 
 October 2020:
 * How To Love The Jobs You Hate
-  * Campbell Murray [zyx2k](https://twitter.com/zyx2k)
+  * Campbell Murray - [zyx2k](https://twitter.com/zyx2k)
   * [YouTube recording](https://www.youtube.com/watch?v=CrPO2FdPouo)
 
 September 2020:
@@ -111,7 +111,7 @@ June 2020:
 
 May 2020: 
 * Black Market Data
-  * Ian Thornton-Trump - ([@phat_hobbit](ttps://twitter.com/phat_hobbit)
+  * Ian Thornton-Trump - [@phat_hobbit](ttps://twitter.com/phat_hobbit)
   * [YouTube recording](https://www.youtube.com/watch?v=_FgH3KEvtL0)
 * Use Of ML/AI On Edge IOT Devices". Recorded talk available here.
   * Toast
