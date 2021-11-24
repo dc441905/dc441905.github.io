@@ -12,7 +12,7 @@ We normally meet on the last Sunday of each month at 7pm.
 
 # Next meet
 
-{% include /next-meet.md %}
+{% include_relative next-meet.md %}
 
 # Previous talks
 
