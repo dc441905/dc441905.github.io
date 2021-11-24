@@ -113,6 +113,6 @@ May 2020:
 * Black Market Data
   * Ian Thornton-Trump - [@phat_hobbit](ttps://twitter.com/phat_hobbit)
   * [YouTube recording](https://www.youtube.com/watch?v=_FgH3KEvtL0)
-* Use Of ML/AI On Edge IOT Devices". Recorded talk available here.
+* Use Of ML/AI On Edge IOT Devices
   * Toast
   * [YouTube recording](https://www.youtube.com/watch?v=_FgH3KEvtL0)
