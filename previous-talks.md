@@ -7,10 +7,10 @@ title: Previous talks
 September 2021:
 * How To Spoof 97% Of Email Accounts
   * Chris Powell
-  * Recording available shortly
+  * [YouTube recording](https://www.youtube.com/watch?v=vSRKD68dNGk)
 * API Pentesting Demystified
   * Campbell Murray - [@zyx2k](https://twitter.com/zyx2k)
-  * Recording available shortly
+  * [YouTube recording](https://www.youtube.com/watch?v=hUY3t8hyfws)
 
 August 2021:
 * PCB Production Today And In The Future
