@@ -4,6 +4,22 @@ title: Previous talks
 ---
 # Previous talks
 
+November 2021:
+* How Easy Is It To A Super Yacht?
+  * Richard Hodder - [@ryxky83](https://twitter.com/ryxky83)
+  * YouTube recording is coming soon
+* Hacking Droids
+  * Mike Jones - [@h4unted](https://twitter.com/h4unted)
+  * YouTube recording is coming soon
+
+October 2021:
+* Spicy Persistence
+  * Ugi
+  * YouTube recording is coming soon
+* Do You Wanna Build A Think Tank?
+  * James Bore - [@Coffee_Fueled](https://twitter.com/Coffee_Fueled)
+  * YouTube recording is coming soon
+
 September 2021:
 * How To Spoof 97% Of Email Accounts
   * Chris Powell
