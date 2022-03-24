@@ -15,7 +15,7 @@ November 2021:
 October 2021:
 * Spicy Persistence
   * Ugi
-  * YouTube recording is coming soon
+  * [YouTube recording](https://www.youtube.com/watch?v=49H5sAGDPNo)
 * Do You Wanna Build A Think Tank?
   * James Bore - [@Coffee_Fueled](https://twitter.com/Coffee_Fueled)
   * YouTube recording is coming soon
