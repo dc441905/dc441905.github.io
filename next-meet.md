@@ -2,5 +2,5 @@ Our next meet will be taking place on the 17th May at 7pm on Zoom and also in pe
 
 Our speakers will be:
 
-* Mathew Hickey (@hackerfantasic)  with their talk "Intrusion tools fo Windows".
+* Mathew Hickey (@hackerfantasic)  with their talk "Intrusion tools for Windows".
 * Tom Quinn (@tomquinn8) with their talk "Foundations: Risk 101".
