@@ -4,6 +4,26 @@ title: Previous talks
 ---
 # Previous talks
 
+April 2022:
+* Electronics 101 hacking
+  * Dr Andrew Blyth
+
+March 2022:
+* TBC
+  * Holly Grace Williams - [@HollyGraceful](https://twitter.com/HollyGraceful)
+* iPhone Hack
+  * James
+
+February 2022:
+* Secure Stack within eCora's L1 blockchain
+  * eCora - [@CoraDLT](https://twitter.com/eCoraDLT)
+
+January 2022:
+* Amateur Radio And Amateur TV
+  * Justin Cockett
+* Insider Threat And UBA
+  * James Rowell
+
 November 2021:
 * How Easy Is It To A Super Yacht?
   * Richard Hodder - [@ryxky83](https://twitter.com/ryxky83)
