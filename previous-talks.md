@@ -4,6 +4,16 @@ title: Previous talks
 ---
 # Previous talks
 
+July 2022:
+* Super Predators
+  * Campbell Murray - [zyx2k](https://twitter.com/zyx2k)
+
+May 2022:
+* Intrusion tools for Windows
+  * Mathew Hickey - [@hackerfantastic](https://twitter.com/hackerfantastic)
+* Foundations: Risk 101
+  * Tom Quinn - [@tomquinn8](https://twitter.com/tomquinn8)
+
 April 2022:
 * Electronics 101 hacking
   * Dr Andrew Blyth
