@@ -8,7 +8,7 @@ Follow us on [Twitter @dc441905](https://twitter.com/dc441905), chat with us on 
 
 If you have a talk that you would like to present then please make contact with us. We only record talks with the speakers consent. You can DM us on [Twitter](https://twitter.com/dc441905)/[Discord](https://discord.gg/rXvnkav) or drop an email to info@dc441905.org
 
-We normally meet on the last Sunday of each month at 7pm.
+We normally meet on the 3rd Tuesday of each month at 7pm.
 
 # Next meet
 
