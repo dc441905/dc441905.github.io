@@ -4,6 +4,12 @@ title: Previous talks
 ---
 # Previous talks
 
+September 2022:
+* Domain Takeovers
+  * Daniel Oats-Lee - [@punksecurity](https://twitter.com/punksecurity)
+* One bot to rule them all - Tradecraft development using sheepl
+  * Matt Lorentzen - [@lorentzenman](https://twitter.com/lorentzenman)
+
 July 2022:
 * Super Predators
   * Campbell Murray - [zyx2k](https://twitter.com/zyx2k)
