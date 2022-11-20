@@ -4,6 +4,16 @@ title: Previous talks
 ---
 # Previous talks
 
+November 2022:
+* Guinness, Brown Ale & Salty Liquorice - the Ongoing Misadventures of an Itinerant Cybrarian
+  * Matt Treadwell - [@theCybrarian_](https://twitter.com/theCybrarian_)
+
+October 2022:
+* Electronics Hacking, part 2
+  * Dr Andrew Blyth - [@Ajcblyth](https://twitter.com/Ajcblyth)
+* Tor 101 - an introduction to Tor
+  * Dan Little
+
 September 2022:
 * Domain Takeovers
   * Daniel Oats-Lee - [@punksecurity](https://twitter.com/punksecurity)
