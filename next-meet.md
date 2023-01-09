@@ -1,1 +1,5 @@
-Our next meet will be taking place on the Friday 16th December. It will be a casual end of year catchup at a local pub. For more details keep an eye on our [Discord server](https://discord.gg/rXvnkav) or [Twitter](https://twitter.com/dc441905).
+Our next meet will be taking place on the 24th January at 7pm in person at [Arch Rivals](https://g.page/Archpub).
+
+Our speakers will be:
+
+* Simon Moore with their talk "Rising Threat to OT".
