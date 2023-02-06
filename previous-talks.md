@@ -4,6 +4,10 @@ title: Previous talks
 ---
 # Previous talks
 
+January 2023:
+* Rising Threat to OT
+  * Simon Moore
+
 November 2022:
 * Guinness, Brown Ale & Salty Liquorice - the Ongoing Misadventures of an Itinerant Cybrarian
   * Matt Treadwell - [@theCybrarian_](https://twitter.com/theCybrarian_)
