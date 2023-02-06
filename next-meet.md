@@ -1,5 +1,7 @@
-Our next meet will be taking place on the 24th January at 7pm in person at [Arch Rivals](https://g.page/Archpub) and will be available remotely via our [Discord server](https://discord.gg/rXvnkav) in the "General Room 1" voice channel.
+Our next meet will be taking place on the 21st February at 7pm in person at [Arch Rivals](https://g.page/Archpub), turn up from 6pm for networking. Due to the sensitive nature of this talk it will not be streamed or recorded.
 
 Our speakers will be:
 
-* Simon Moore with their talk "Rising Threat to OT".
+* Tia C with their talk "Practicing Safe Sex(t)".
+
+> Please note this talk is 18+ and there will sensitive discussions around topics including sexual violence, domestic abuse and suicide.
