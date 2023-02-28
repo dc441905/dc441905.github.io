@@ -4,6 +4,10 @@ title: Previous talks
 ---
 # Previous talks
 
+February 2023:
+* Practicing Safe Sex(t)
+  * Tia C
+
 January 2023:
 * Rising Threat to OT
   * Simon Moore
