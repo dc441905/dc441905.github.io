@@ -4,6 +4,10 @@ title: Previous talks
 ---
 # Previous talks
 
+March 2023:
+* Network steganography - what is it, and why should we care?
+  * Jonathan
+
 February 2023:
 * Practicing Safe Sex(t)
   * Tia C
