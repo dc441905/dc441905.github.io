@@ -4,6 +4,10 @@ title: Previous talks
 ---
 # Previous talks
 
+April 2023:
+* Hacking a Satellite Ingest System
+  * Josh Allman
+
 March 2023:
 * Network steganography - what is it, and why should we care?
   * Jonathan
