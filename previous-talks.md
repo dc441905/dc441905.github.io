@@ -4,6 +4,10 @@ title: Previous talks
 ---
 # Previous talks
 
+May 2023:
+* Lock picking workshop
+  * Daniel Barker
+
 April 2023:
 * Hacking a Satellite Ingest System
   * Josh Allman
