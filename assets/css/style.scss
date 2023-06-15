@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#navigation {
+  margin: 0px;
+}
+
+.btn {
+  border-radius: 0.3rem;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.btn:hover {
+  color: rgba(255, 255, 255, 0.9);
+  border-color: rgba(255, 255, 255, 0.3);
+}
