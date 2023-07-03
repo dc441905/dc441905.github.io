@@ -4,6 +4,10 @@ title: Previous talks
 ---
 # Previous talks
 
+June 2023:
+* How to Hack a Car
+  * Sophia McCall 
+
 May 2023:
 * Lock picking workshop
   * Daniel Barker
