@@ -14,7 +14,7 @@ Respect each other. Intolerance is not tolerated. If you see something, say some
 
 ## Code of Conduct
 
-DC441905 is dedicated to providing a harassment-free experience for all participants. This includes event attendees, speakers, sponsors and organisors at both physical events and in our online channels. 
+DC441905 is dedicated to providing a harassment-free experience for all participants. This includes event attendees, speakers, sponsors and organisers at both physical events and in our online channels. 
 
 We do not tolerate abuse, harassment, or discriminatory behaviour of any form. Specifically do not make offensive comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, political affiliation, race, ethnicity, religion, technology choices, or other prejudiced behaviour.
 
@@ -34,4 +34,4 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 ## Our response
 
-If you have any issues with the behaviour of anyone at events on in online channels, please report it to one of the DC441905 organisers either in person or via a private messasge via our online channels. We commit that we will take each complaint seriously. We reserve the right to respond to harassment in the manner we deem appropriate, including but not limited to expulsion and referral to the relevant authorities.
+If you have any issues with the behaviour of anyone at events on in online channels, please report it to one of the DC441905 organisers either in person or via a private message via our online channels. We commit that we will take each complaint seriously. We reserve the right to respond to harassment in the manner we deem appropriate, including but not limited to expulsion and referral to the relevant authorities.
