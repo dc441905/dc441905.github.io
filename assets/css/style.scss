@@ -16,3 +16,13 @@
   color: rgba(255, 255, 255, 0.9);
   border-color: rgba(255, 255, 255, 0.3);
 }
+
+#about-team img {
+  max-width: unset;
+  border-radius: 50%;
+}
+
+#about-team td {
+  vertical-align: top;
+  padding-bottom: 50px;
+}
