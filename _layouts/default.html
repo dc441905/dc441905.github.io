@@ -5,12 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-
-{% seo %}
   </head>
 
   <body>
-
 
     <header>
       <div class="container">
@@ -19,19 +16,37 @@
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
+        {% if site.show_nav %}
         <section id="navigation">
-          <a class="btn" href="/">Home</a>
-          <a class="btn" href="/previous-talks/">Previous talks</a>
-          <a class="btn" href="/code-of-conduct/">Code of Conduct</a>
+          {%- for entry in site.nav -%}
+            <a href="{{ entry.url }}">{{ entry.title }}</a>  
+          {%- endfor -%}
         </section>
+        {% endif %}
       </div>
     </header>
-
 
     <div class="container">
       <section id="main_content">
         {{ content }}
       </section>
     </div>
+
+    {% if site.show_footer %}
+    <footer>
+      <div class="container social-icons">
+        <ul>
+          {%- for entry in site.socials -%}
+            <li>{% assign entry = include.item %}
+              <a href="{{ entry.url }}" target="_blank" title="{{ entry.title }}">
+                <img src="{{ '/assets/images/social-icons/' | append: entry.icon | append: '.svg' | relative_url }}">
+              </a>
+            </li>
+          {%- endfor -%}
+        </ul>
+      </div>
+    </footer>
+    {% endif %}
+
   </body>
 </html>

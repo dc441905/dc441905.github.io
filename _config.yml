@@ -3,3 +3,19 @@ description: Welcome to the home of the DC441905 Worcester DEFCON group
 theme: jekyll-theme-hacker
 lang: en-GB
 permalink: pretty
+
+show_nav: true
+
+nav:
+- { url: "/", title: Home }
+- { url: "/previous-talks/",  title: Previous talks }
+- { url: "/code-of-conduct/", title: Code of Conduct }
+
+show_footer: false
+
+socials:
+- { icon: twitter,  title: Twitter,  url: "https://twitter.com/dc441905" }
+- { icon: discord,  title: Discord,  url: "https://discord.gg/rXvnkav" }
+- { icon: youtube,  title: YouTube,  url: "https://youtube.com/DefconWorcester" }
+- { icon: linkedin, title: LinkedIn, url: "https://www.linkedin.com/groups/8985872/" }
+- { icon: meetup,   title: Meet Up,  url: "https://www.meetup.com/worcester-defcon/" }
