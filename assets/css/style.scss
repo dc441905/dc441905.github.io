@@ -26,3 +26,38 @@
   vertical-align: top;
   padding-bottom: 50px;
 }
+
+footer { 
+  width: 100%;
+  border-top: 1px dashed #b5e853;
+  margin: 100px 0 0 0;
+}
+
+.social-icons {
+  ul {
+    padding: 0;
+    float: right;
+  }
+  li {
+    list-style: none;
+    float: left;
+    margin: 5px 10px 5px 0;
+    &:last-of-type { margin-right: 0 }
+  }
+  a {
+    display: block;
+    padding: 5px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+  }
+  a:hover {
+    border-color: rgba(255, 255, 255, 0.3);
+    filter: grayscale(1) brightness(125%);
+  }
+  img {
+    width: 2em;
+    height: 2em;
+    display: inline-block;
+    vertical-align: text-bottom;
+    filter: grayscale(1);
+  }
+}
