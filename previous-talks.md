@@ -4,6 +4,10 @@ title: Previous talks
 ---
 # Previous talks
 
+July 2023:
+* Physical Security: The steps taken to break in
+  * Tom - [@zetascrub](https://twitter.com/zetascrub)
+
 June 2023:
 * How to Hack a Car
   * Sophia McCall 
