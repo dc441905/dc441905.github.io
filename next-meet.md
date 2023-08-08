@@ -1,5 +1,1 @@
-Our next meet will be taking place on the 18th July at 7pm in person at [Arch Rivals](https://g.page/Archpub), turn up from 6pm for networking. The talk will also be streamed via our [Discord server](https://discord.gg/rXvnkav).
-
-Our speaker will be:
-
-* Tom ([@zetascrub](https://twitter.com/zetascrub)) with their talk "Physical Security: The steps taken to break in"
+Our next meet will be taking place on the 25th August. It will be our summer social and we will most likely meet at [Arch Rivals](https://g.page/Archpub) at 7pm. We will go to other pubs/bars as well. Keep an eye on [Twitter](https://twitter.com/dc441905) and [Discord server](https://discord.gg/rXvnkav) for updates.
