@@ -1,1 +1,5 @@
-Our next meet will be taking place on the 25th August. It will be our summer social and we will most likely meet at [Arch Rivals](https://g.page/Archpub) at 7pm. We will go to other pubs/bars as well. Keep an eye on [Twitter](https://twitter.com/dc441905) and [Discord server](https://discord.gg/rXvnkav) for updates.
+Our next meet will be taking place on the 19th September at 7pm in person at [Arch Rivals](https://g.page/Archpub), turn up from 6pm for networking.
+
+Our speaker will be:
+
+* Liz with her talk "Cybersecurity Engineering and autonomous vehicles"
