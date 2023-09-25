@@ -4,6 +4,10 @@ title: Previous talks
 ---
 # Previous talks
 
+September 2023:
+* Cybersecurity Engineering and autonomous vehicles
+  * Liz
+
 July 2023:
 * Physical Security: The steps taken to break in
   * Tom - [@zetascrub](https://twitter.com/zetascrub)
