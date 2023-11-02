@@ -8,6 +8,7 @@ title: Previous talks
 
 |Month|Talk|Speaker|Links|
 |---|---|---|---|
+|October |How to run a red team without losing friends and alienating people|Gemma Moore||
 |September|Cybersecurity Engineering and autonomous vehicles |Liz||
 |July    |Physical Security: The steps taken to break in|Tom<br>[@zetascrub](https://twitter.com/zetascrub)||
 |June    |How to Hack a Car|Sophia McCall||
