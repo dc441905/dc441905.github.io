@@ -1,5 +1,1 @@
-Our next meet will be taking place on the 21st November at 7pm in person at [Arch Rivals](https://g.page/Archpub), turn up from 6.30pm for networking.
-
-Our speaker will be:
-
-* Ian with his talk "Your password, no, MY password - why does everyone go on about it?"
+Our next meet will be our winter social taking place on the 16th December. At the moment the plan is to start at [Arch Rivals](https://g.page/Archpub), however we are open to suggestions :) Keep at eye on the discord server for more details.
