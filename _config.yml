@@ -15,7 +15,7 @@ nav:
 show_footer: true
 
 socials:
-- { icon: twitter,  title: Twitter,  url: "https://twitter.com/dc441905" }
+# - { icon: twitter,  title: Twitter,  url: "https://twitter.com/dc441905" }
 - { icon: discord,  title: Discord,  url: "https://discord.gg/rXvnkav" }
 - { icon: youtube,  title: YouTube,  url: "https://youtube.com/DefconWorcester" }
 - { icon: linkedin, title: LinkedIn, url: "https://www.linkedin.com/groups/8985872/" }
