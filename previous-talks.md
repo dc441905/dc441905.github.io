@@ -4,6 +4,12 @@ title: Previous talks
 ---
 # Previous talks
 
+## 2024
+
+|Month|Talk|Speaker|Links|
+|---|---|---|---|
+|January|Start to Exit: making a success of your tech venture|Dr Adrian Burden||
+
 ## 2023
 
 |Month|Talk|Speaker|Links|
