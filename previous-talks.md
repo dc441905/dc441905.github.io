@@ -8,6 +8,7 @@ title: Previous talks
 
 |Month|Talk|Speaker|Links|
 |---|---|---|---|
+|February|IT Security?|Pete Rucinski||
 |January|Start to Exit: making a success of your tech venture|Dr Adrian Burden||
 
 ## 2023
