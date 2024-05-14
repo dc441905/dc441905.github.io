@@ -8,6 +8,7 @@ title: Previous talks
 
 |Month|Talk|Speaker|Links|
 |---|---|---|---|
+|April|Introduction to cryptography - the maths lite version|Jonathan Bloomfield||
 |March|Government-funded Occupational Maps in Tech & Digital|Derrin Kent||
 |February|IT Security?|Pete Rucinski||
 |January|Start to Exit: making a success of your tech venture|Dr Adrian Burden||
