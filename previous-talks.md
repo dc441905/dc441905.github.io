@@ -8,6 +8,7 @@ title: Previous talks
 
 |Month|Talk|Speaker|Links|
 |---|---|---|---|
+|May|Assuring Autonomy in Air and Sea systems|Nick Tudor||
 |April|Introduction to cryptography - the maths lite version|Jonathan Bloomfield||
 |March|Government-funded Occupational Maps in Tech & Digital|Derrin Kent||
 |February|IT Security?|Pete Rucinski||
