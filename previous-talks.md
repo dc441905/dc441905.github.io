@@ -8,6 +8,7 @@ title: Previous talks
 
 |Month|Talk|Speaker|Links|
 |---|---|---|---|
+|June|Human-AI Interaction – Enabling AI to Know You!|Clive Summerfield||
 |May|Assuring Autonomy in Air and Sea systems|Nick Tudor||
 |April|Introduction to cryptography - the maths lite version|Jonathan Bloomfield||
 |March|Government-funded Occupational Maps in Tech & Digital|Derrin Kent||
