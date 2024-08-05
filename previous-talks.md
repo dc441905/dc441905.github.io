@@ -8,7 +8,7 @@ title: Previous talks
 
 |Month|Talk|Speaker|Links|
 |---|---|---|---|
-|July|The Art of Penetration Testing (un)Intelligent Systems|Campbell Murray||
+|July|The Art of Penetration Testing (un)Intelligent Systems|Campbell Murray|[Presentation](https://dc441905.org/files/Unintelligent_Systems_-_DC441905_-_July_24.pdf)|
 |June|Human-AI Interaction – Enabling AI to Know You!|Clive Summerfield||
 |May|Assuring Autonomy in Air and Sea systems|Nick Tudor||
 |April|Introduction to cryptography - the maths lite version|Jonathan Bloomfield||
