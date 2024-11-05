@@ -8,6 +8,7 @@ title: Previous talks
 
 |Month|Talk|Speaker|Links|
 |---|---|---|---|
+|October|A cautionary tale of bad actors in supply chains|Ryan||
 |September|Advancing Communication Technology: New Frontiers in AAC|Tizzy Vanner||
 |August|bamboozling badly behaving bots|Ryan Lee||
 |July|The Art of Penetration Testing (un)Intelligent Systems|Campbell Murray|[Presentation](https://dc441905.org/files/Unintelligent_Systems_-_DC441905_-_July_24.pdf)|
