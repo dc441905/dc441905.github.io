@@ -8,6 +8,7 @@ title: Previous talks
 
 |Month|Talk|Speaker|Links|
 |---|---|---|---|
+|December|End of year social and quiz|||
 |November|Train control system security - the truth behind Nightsleeper|Mark Lodge||
 |October|A cautionary tale of bad actors in supply chains|Ryan||
 |September|Advancing Communication Technology: New Frontiers in AAC|Tizzy Vanner||
