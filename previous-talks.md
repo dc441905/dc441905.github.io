@@ -4,6 +4,12 @@ title: Previous talks
 ---
 # Previous talks
 
+## 2025
+
+|Month|Talk|Speaker|Links|
+|---|---|---|---|
+|February|Attacking Active Directory 101|Dan|[Youtube](https://www.youtube.com/watch?v=Ey9sk6PB7gk)<br>[Presentation](https://github.com/Mr-Whiskerss/Talks/raw/refs/heads/main/Attacking%20Active%20Directory%20101.pptx)|
+
 ## 2024
 
 |Month|Talk|Speaker|Links|
