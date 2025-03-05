@@ -8,7 +8,7 @@ title: Previous talks
 
 |Month|Talk|Speaker|Links|
 |---|---|---|---|
-|February|Attacking Active Directory 101|Dan|[Youtube](https://www.youtube.com/watch?v=Ey9sk6PB7gk)<br>[Presentation](https://github.com/Mr-Whiskerss/Talks/raw/refs/heads/main/Attacking%20Active%20Directory%20101.pptx)|
+|February|Attacking Active Directory 101|Dan Little|[YouTube](https://www.youtube.com/watch?v=Ey9sk6PB7gk)<br>[Presentation](https://github.com/Mr-Whiskerss/Talks/raw/refs/heads/main/Attacking%20Active%20Directory%20101.pptx)|
 
 ## 2024
 
@@ -29,37 +29,37 @@ title: Previous talks
 
 ## 2023
 
-|Month|Talk|Speaker|Links|
-|---|---|---|---|
-|November|Your password, no, MY password - why does everyone go on about it?|Ian||
-|October |How to run a red team without losing friends and alienating people|Gemma Moore||
-|September|Cybersecurity Engineering and autonomous vehicles |Liz||
-|July    |Physical Security: The steps taken to break in|Tom<br>[@zetascrub](https://twitter.com/zetascrub)||
-|June    |How to Hack a Car|Sophia McCall||
-|May     |Lock picking workshop|Daniel Barker||
-|April   |Hacking a Satellite Ingest System|Josh Allman||
-|March   |Network steganography - what is it, and why should we care?|Jonathan||
-|February|Practicing Safe Sex(t)|Tia C||
-|January |Rising Threat to OT|Simon Moore||
+|Month|Talk|Speaker|
+|---|---|---|
+|November|Your password, no, MY password - why does everyone go on about it?|Ian|
+|October |How to run a red team without losing friends and alienating people|Gemma Moore|
+|September|Cybersecurity Engineering and autonomous vehicles |Liz|
+|July    |Physical Security: The steps taken to break in|Tom<br>[@zetascrub](https://twitter.com/zetascrub)|
+|June    |How to Hack a Car|Sophia McCall|
+|May     |Lock picking workshop|Daniel Barker|
+|April   |Hacking a Satellite Ingest System|Josh Allman|
+|March   |Network steganography - what is it, and why should we care?|Jonathan|
+|February|Practicing Safe Sex(t)|Tia C|
+|January |Rising Threat to OT|Simon Moore|
 
 ## 2022
 
-|Month|Talk|Speaker|Links|
-|---|---|---|---|
-|November|Guinness, Brown Ale & Salty Liquorice - the Ongoing Misadventures of an Itinerant Cybrarian|Matt Treadwell<br>[@theCybrarian_](https://twitter.com/theCybrarian_)||
-|October |Electronics Hacking, part 2|Dr Andrew Blyth<br>[@Ajcblyth](https://twitter.com/Ajcblyth)||
-|        |Tor 101 - an introduction to Tor|Dan Little||
-|September|Domain Takeovers|Daniel Oats-Lee<br>[@punksecurity](https://twitter.com/punksecurity)||
-|        |One bot to rule them all - Tradecraft development using sheepl|Matt Lorentzen<br>[@lorentzenman](https://twitter.com/lorentzenman)||
-|July    |Super Predators|Campbell Murray<br>[zyx2k](https://twitter.com/zyx2k)||
-|May     |Intrusion tools for Windows|Mathew Hickey<br>[@hackerfantastic](https://twitter.com/hackerfantastic)||
-|        |Foundations: Risk 101|Tom Quinn<br>[@tomquinn8](https://twitter.com/tomquinn8)||
-|April   |Electronics 101 hacking|Dr Andrew Blyth<br>[@Ajcblyth](https://twitter.com/Ajcblyth)||
-|March   |TBC|Holly Grace Williams<br>[@HollyGraceful](https://twitter.com/HollyGraceful)||
-|        |iPhone Hack|James||
-|February|Secure Stack within eCora's L1 blockchain|eCora<br>[@CoraDLT](https://twitter.com/eCoraDLT)||
-|January |Amateur Radio And Amateur TV|Justin Cockett||
-|        |Insider Threat And UBA|James Rowell||
+|Month|Talk|Speaker|
+|---|---|---|
+|November|Guinness, Brown Ale & Salty Liquorice - the Ongoing Misadventures of an Itinerant Cybrarian|Matt Treadwell<br>[@theCybrarian_](https://twitter.com/theCybrarian_)|
+|October |Electronics Hacking, part 2|Dr Andrew Blyth<br>[@Ajcblyth](https://twitter.com/Ajcblyth)|
+|        |Tor 101 - an introduction to Tor|Dan Little|
+|September|Domain Takeovers|Daniel Oats-Lee<br>[@punksecurity](https://twitter.com/punksecurity)|
+|        |One bot to rule them all - Tradecraft development using sheepl|Matt Lorentzen<br>[@lorentzenman](https://twitter.com/lorentzenman)|
+|July    |Super Predators|Campbell Murray<br>[zyx2k](https://twitter.com/zyx2k)|
+|May     |Intrusion tools for Windows|Mathew Hickey<br>[@hackerfantastic](https://twitter.com/hackerfantastic)|
+|        |Foundations: Risk 101|Tom Quinn<br>[@tomquinn8](https://twitter.com/tomquinn8)|
+|April   |Electronics 101 hacking|Dr Andrew Blyth<br>[@Ajcblyth](https://twitter.com/Ajcblyth)|
+|March   |TBC|Holly Grace Williams<br>[@HollyGraceful](https://twitter.com/HollyGraceful)|
+|        |iPhone Hack|James|
+|February|Secure Stack within eCora's L1 blockchain|eCora<br>[@CoraDLT](https://twitter.com/eCoraDLT)|
+|January |Amateur Radio And Amateur TV|Justin Cockett|
+|        |Insider Threat And UBA|James Rowell|
 
 ## 2021
 
