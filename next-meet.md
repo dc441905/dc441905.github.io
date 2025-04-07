@@ -2,4 +2,4 @@ Our next meet will be taking place on the 18th March at 7pm in person at [Arch R
 
 Our speaker will be:
 
-*  Tom with their talk "Physical Security: The hackers mindset"
+*  Emma Philpott, CEO of IASME, with their talk "From Zero to Cyber Hero: A Journey Through Cyber Essentials for the Unemployed"
