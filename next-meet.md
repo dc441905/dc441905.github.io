@@ -2,4 +2,4 @@ Our next meet will be taking place on the 20th May at 7pm in person at [Arch Riv
 
 Our speaker will be:
 
-*  Ben Folland, with their talk "Beacon Harvest: Conquering Cobalt Strike at Scale"
+*  Eya Meddeb, with their talk "Ethical AI for Business : Practical guidelines to build Ethical AI"
