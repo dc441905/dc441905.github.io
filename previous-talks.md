@@ -8,6 +8,7 @@ title: Previous talks
 
 |Month|Talk|Speaker|Links|
 |---|---|---|---|
+|May|Beacon Harvest: Conquering Cobalt Strike at Scale|Ben Folland|[YouTube](https://www.youtube.com/watch?v=LLMhBbn440k)<br>[Presentation](https://dc441905.org/files/Beacon_Harvest-May_25.pptx)|
 |April|From Zero to Cyber Hero|Emma Philpott|[Youtube](https://www.youtube.com/watch?v=edxYLw0oVgM)|
 |March|Physical Security: The hackers mindset|Tom|[Youtube](https://www.youtube.com/watch?v=Ie8v34mY9lo)|
 |February|Attacking Active Directory 101|Dan Little|[YouTube](https://www.youtube.com/watch?v=Ey9sk6PB7gk)<br>[Presentation](https://github.com/Mr-Whiskerss/Talks/raw/refs/heads/main/Attacking%20Active%20Directory%20101.pptx)|
