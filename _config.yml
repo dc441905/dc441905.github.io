@@ -11,7 +11,7 @@ nav:
 - { url: "/about/", title: About }
 - { url: "/previous-talks/",  title: Previous talks }
 - { url: "/code-of-conduct/", title: Code of Conduct }
-# - { url: "/sponsors/", title: Sponsors }
+- { url: "/sponsors/", title: Sponsors }
 
 show_footer: true
 
