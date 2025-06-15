@@ -14,11 +14,11 @@ We’re proud to be supported by:
 
 ### Arch Rivals
 
-The [Arch Rivals](https://g.page/Archpub) is a great little micro pub and brewery based in a railway arch in Worcester. We are very grateful they host us each month for our events.
+[Arch Rivals](https://g.page/Archpub) is a great little micro pub and brewery based in a railway arch in Worcester. We are very grateful they host us each month for our events.
 
 ### ISAME
 
-[ISAME](https://iasme.co.uk/) is ine of the UK's leading cyber security certification bodies, probably best known for Cyber Essentials, working to make cyber security accessible and achievable for all. We are grateful for their support in helping us pay for some of our online services.
+[ISAME](https://iasme.co.uk/) is one of the UK's leading cyber security certification bodies, probably best known for Cyber Essentials, working to make cyber security accessible and achievable for all. We are grateful for their support in helping us pay for some of our online services.
 
 ## Support us
 
