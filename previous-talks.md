@@ -8,6 +8,7 @@ title: Previous talks
 
 |Month|Talk|Speaker|Links|
 |---|---|---|---|
+|June|Ethical AI for Business : Practical guidelines to build Ethical AI|Eya Meddeb||
 |May|Beacon Harvest: Conquering Cobalt Strike at Scale|Ben Folland|[YouTube](https://www.youtube.com/watch?v=LLMhBbn440k)<br>[Presentation](https://dc441905.org/files/Beacon_Harvest-May_25.pptx)|
 |April|From Zero to Cyber Hero|Emma Philpott|[Youtube](https://www.youtube.com/watch?v=edxYLw0oVgM)|
 |March|Physical Security: The hackers mindset|Tom|[Youtube](https://www.youtube.com/watch?v=Ie8v34mY9lo)|
