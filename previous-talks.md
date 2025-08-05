@@ -8,6 +8,7 @@ title: Previous talks
 
 |Month|Talk|Speaker|Links|
 |---|---|---|---|
+|July|Active Directory 102: Common attack paths|Dan Little|[YouTube](https://www.youtube.com/watch?v=CPZkVh2ZyWI)<br>[Presentation](https://github.com/Mr-Whiskerss/Talks/raw/refs/heads/main/Active%20Directory%20102%20Common%20Attack%20Paths%20(Getting%20a%20foothold).pptx)|
 |June|Ethical AI for Business : Practical guidelines to build Ethical AI|Eya Meddeb||
 |May|Beacon Harvest: Conquering Cobalt Strike at Scale|Ben Folland|[YouTube](https://www.youtube.com/watch?v=LLMhBbn440k)<br>[Presentation](https://dc441905.org/files/Beacon_Harvest-May_25.pptx)|
 |April|From Zero to Cyber Hero|Emma Philpott|[Youtube](https://www.youtube.com/watch?v=edxYLw0oVgM)|
