@@ -37,6 +37,55 @@
   padding-bottom: 50px;
 }
 
+/* Collapsible year sections */
+details {
+  margin-bottom: 2em;
+  border: 1px solid rgba(181, 232, 83, 0.2);
+  border-radius: 0.3rem;
+  padding: 0.5em 1em;
+  background: rgba(0, 0, 0, 0.1);
+}
+
+details summary {
+  cursor: pointer;
+  user-select: none;
+  margin: -0.5em -1em;
+  padding: 0.5em 1em;
+  list-style: none;
+  border-radius: 0.3rem;
+  transition: background 0.2s;
+}
+
+details summary:hover {
+  background: rgba(181, 232, 83, 0.1);
+}
+
+details summary h2 {
+  display: inline-block;
+  margin: 0;
+  padding-left: 0.5em;
+}
+
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+details summary::before {
+  content: "▶";
+  display: inline-block;
+  width: 1em;
+  color: #b5e853;
+  transition: transform 0.2s;
+}
+
+details[open] summary::before {
+  transform: rotate(90deg);
+}
+
+details[open] {
+  background: rgba(0, 0, 0, 0.2);
+}
+
 footer { 
   width: 100%;
   border-top: 1px dashed #b5e853;

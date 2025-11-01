@@ -4,7 +4,8 @@ title: Previous talks
 ---
 # Previous talks
 
-## 2025
+<details open markdown="1">
+<summary><h2>2025</h2></summary>
 
 |Month|Talk|Speaker|Links|
 |---|---|---|---|
@@ -17,7 +18,10 @@ title: Previous talks
 |March|Physical Security: The hackers mindset|Tom|[Youtube](https://www.youtube.com/watch?v=Ie8v34mY9lo)|
 |February|Attacking Active Directory 101|Dan Little|[YouTube](https://www.youtube.com/watch?v=Ey9sk6PB7gk)<br>[Presentation](https://github.com/Mr-Whiskerss/Talks/raw/refs/heads/main/Attacking%20Active%20Directory%20101.pptx)|
 
-## 2024
+</details>
+
+<details open markdown="1">
+<summary><h2>2024</h2></summary>
 
 |Month|Talk|Speaker|Links|
 |---|---|---|---|
@@ -34,7 +38,10 @@ title: Previous talks
 |February|IT Security?|Pete Rucinski||
 |January|Start to Exit: making a success of your tech venture|Dr Adrian Burden||
 
-## 2023
+</details>
+
+<details open markdown="1">
+<summary><h2>2023</h2></summary>
 
 |Month|Talk|Speaker|
 |---|---|---|
@@ -49,7 +56,10 @@ title: Previous talks
 |February|Practicing Safe Sex(t)|Tia C|
 |January |Rising Threat to OT|Simon Moore|
 
-## 2022
+</details>
+
+<details open markdown="1">
+<summary><h2>2022</h2></summary>
 
 |Month|Talk|Speaker|
 |---|---|---|
@@ -68,7 +78,10 @@ title: Previous talks
 |January |Amateur Radio And Amateur TV|Justin Cockett|
 |        |Insider Threat And UBA|James Rowell|
 
-## 2021
+</details>
+
+<details open markdown="1">
+<summary><h2>2021</h2></summary>
 
 |Month|Talk|Speaker|Links|
 |---|---|---|---|
@@ -93,7 +106,10 @@ title: Previous talks
 |January |How To Reign In The Cloud|DeathsPirate<br>[@DeathsPirate](https://twitter.com/DeathsPirate)|[YouTube](https://www.youtube.com/watch?v=F9lPS9Xh_v0)|
 |        |Dissecting The ENISA Baseline Recommendations For IoT Security|AtomicNicos<br>[@AtomicNicos](https://twitter.com/AtomicNicos)|[YouTube](https://www.youtube.com/watch?v=VEkWpGB_s8c)|
 
-## 2020
+</details>
+
+<details open markdown="1">
+<summary><h2>2020</h2></summary>
 
 |Month|Talk|Speaker|Links|
 |---|---|---|---|
@@ -106,3 +122,5 @@ title: Previous talks
 |        |Introduction To Linux Heap Exploitation|Max Kamper<br>[Ropemporium.Com](https://ropemporium.com/)|[YouTube](https://www.youtube.com/watch?v=xn1S5I2wGH8)<br>[Lab resources](http://dc441905.org/files/HeapLAB_DC441905.tar.gz)|
 | May    | Black Market Data|Ian Thornton-Trump<br>[@phat_hobbit](ttps://twitter.com/phat_hobbit)|[YouTube](https://www.youtube.com/watch?v=_FgH3KEvtL0)|
 |        | Use Of ML/AI On Edge IOT Devices|Toast|[YouTube](https://www.youtube.com/watch?v=_FgH3KEvtL0)|
+
+</details>
