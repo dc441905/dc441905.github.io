@@ -150,8 +150,13 @@ footer {
     border-bottom: 1px solid rgba(181, 232, 83, 0.1);
     display: block;
     text-align: left;
-    padding: 0.5em 0.5em 0.5em 50%;
+    padding: 0.5em;
     position: relative;
+  }
+
+  /* Add left padding only for tables with labels */
+  .previous-talks-tables table td {
+    padding: 0.5em 0.5em 0.5em 50%;
   }
 
   table td:last-child {
@@ -169,14 +174,28 @@ footer {
     text-align: left;
   }
 
-  /* Labels for previous-talks table columns */
-  table td:nth-of-type(1)::before { content: "Month"; }
-  table td:nth-of-type(2)::before { content: "Talk"; }
-  table td:nth-of-type(3)::before { content: "Speaker"; }
-  table td:nth-of-type(4)::before { content: "Links"; }
+  /* Labels for previous-talks table columns only */
+  .previous-talks-tables table td:nth-of-type(1)::before { content: "Month"; }
+  .previous-talks-tables table td:nth-of-type(2)::before { content: "Talk"; }
+  .previous-talks-tables table td:nth-of-type(3)::before { content: "Speaker"; }
+  .previous-talks-tables table td:nth-of-type(4)::before { content: "Links"; }
 
   /* Handle the Links column - ensure breaks display properly */
   table td:last-child {
     padding-bottom: 1em;
+  }
+
+  /* About team table mobile styling */
+  #about-team td {
+    padding-bottom: 1em;
+  }
+
+  #about-team td:first-child {
+    text-align: center;
+  }
+
+  #about-team img {
+    margin: 0 auto;
+    display: block;
   }
 }

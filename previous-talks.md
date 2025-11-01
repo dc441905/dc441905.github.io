@@ -4,6 +4,8 @@ title: Previous talks
 ---
 # Previous talks
 
+<div class="previous-talks-tables" markdown="1">
+
 <details open markdown="1">
 <summary><h2>2025</h2></summary>
 
@@ -124,3 +126,5 @@ title: Previous talks
 |        | Use Of ML/AI On Edge IOT Devices|Toast|[YouTube](https://www.youtube.com/watch?v=_FgH3KEvtL0)|
 
 </details>
+
+</div>
