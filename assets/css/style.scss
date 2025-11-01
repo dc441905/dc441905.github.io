@@ -3,6 +3,16 @@
 
 @import "{{ site.theme }}";
 
+/* Hide the checkbox */
+.nav-toggle {
+  display: none;
+}
+
+/* Hide mobile nav elements on desktop */
+.mobile-nav-header {
+  display: none;
+}
+
 #navigation {
   margin: 0px;
   a {
@@ -122,6 +132,159 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
+
+  /* Mobile nav header container - now clickable */
+  .mobile-nav-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 0 10px;
+    padding: 10px;
+    cursor: pointer;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 0.3rem;
+    border: 1px solid rgba(181, 232, 83, 0.2);
+    transition: background 0.2s;
+  }
+
+  .mobile-nav-header:hover {
+    background: rgba(0, 0, 0, 0.3);
+    border-color: rgba(181, 232, 83, 0.3);
+  }
+
+  /* Current page indicator */
+  .current-page {
+    font-size: 14px;
+    font-weight: bold;
+    color: #b5e853;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  /* Hamburger icon container */
+  .nav-toggle-icon {
+    display: block;
+    height: 40px;
+    width: 40px;
+    position: relative;
+    flex-shrink: 0;
+  }
+
+  /* Hamburger icon lines */
+  .nav-toggle-icon span,
+  .nav-toggle-icon span::before,
+  .nav-toggle-icon span::after {
+    display: block;
+    background: #b5e853;
+    height: 4px;
+    width: 30px;
+    border-radius: 2px;
+    position: absolute;
+    transition: all 0.3s ease;
+  }
+
+  .nav-toggle-icon span::before,
+  .nav-toggle-icon span::after {
+    content: '';
+  }
+
+  .nav-toggle-icon span {
+    top: 18px;
+  }
+
+  .nav-toggle-icon span::before {
+    top: -10px;
+  }
+
+  .nav-toggle-icon span::after {
+    top: 10px;
+  }
+
+  /* Animate to X when checked */
+  .nav-toggle:checked ~ .mobile-nav-header .nav-toggle-icon span {
+    background: transparent;
+  }
+
+  .nav-toggle:checked ~ .mobile-nav-header .nav-toggle-icon span::before {
+    transform: rotate(45deg);
+    top: 0;
+  }
+
+  .nav-toggle:checked ~ .mobile-nav-header .nav-toggle-icon span::after {
+    transform: rotate(-45deg);
+    top: 0;
+  }
+
+  /* Mobile menu styles */
+  #navigation {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+    margin: 0;
+    padding: 0;
+    background: rgba(0, 0, 0, 0.85);
+    border-radius: 0.3rem;
+    border: 0px solid rgba(181, 232, 83, 0.3);
+    box-shadow: none;
+    transition: all 0.3s ease;
+  }
+
+  #navigation a {
+    display: block;
+    margin: 0;
+    padding: 15px 20px;
+    border-radius: 0;
+    border: none;
+    border-bottom: 1px solid rgba(181, 232, 83, 0.1);
+    text-align: left;
+    position: relative;
+    font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'source-code-pro', monospace;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    transition: all 0.2s ease;
+  }
+
+  /* Terminal-style prompt before each menu item */
+  #navigation a::before {
+    content: '>';
+    color: #b5e853;
+    margin-right: 10px;
+    opacity: 0;
+    transform: translateX(-10px);
+    transition: all 0.2s ease;
+  }
+
+  #navigation a:hover,
+  #navigation a:focus {
+    background: rgba(181, 232, 83, 0.1);
+    padding-left: 25px;
+    text-shadow: 0 0 5px rgba(181, 232, 83, 0.5);
+  }
+
+  #navigation a:hover::before,
+  #navigation a:focus::before {
+    opacity: 1;
+    transform: translateX(0);
+  }
+
+  #navigation a:active {
+    background: rgba(181, 232, 83, 0.2);
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.3);
+  }
+
+  #navigation a:last-child {
+    border-bottom: none;
+  }
+
+  /* Show menu when checkbox is checked */
+  .nav-toggle:checked ~ #navigation {
+    max-height: 500px;
+    padding: 0 0 10px 0;
+    margin-top: 10px;
+    border-width: 1px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  }
+
   table {
     border: 0;
   }
