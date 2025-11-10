@@ -11,6 +11,7 @@ title: Previous talks
 
 |Month|Talk|Speaker|Links|
 |---|---|---|---|
+|October|Self-Driving Cars: Are We Ready?|Luke Marshall-Watkins||
 |September|The Hidden Language of CVSS|Campbell Murray|[YouTube](https://www.youtube.com/watch?v=7BUiojc45bg)<br>[Github](https://github.com/sodiumcyber/CVSS-Vector-Analysis)|
 |August|SWIM: Keeping your head above the water|Ryan Lee|[YouTube](https://www.youtube.com/watch?v=clJm6ghJoTE)|
 |July|Active Directory 102: Common attack paths|Dan Little|[YouTube](https://www.youtube.com/watch?v=CPZkVh2ZyWI)<br>[Presentation](https://github.com/Mr-Whiskerss/Talks/raw/refs/heads/main/Active%20Directory%20102%20Common%20Attack%20Paths%20(Getting%20a%20foothold).pptx)|
