@@ -7,6 +7,15 @@ title: Previous talks
 <div class="previous-talks-tables" markdown="1">
 
 <details open markdown="1">
+<summary><h2>2026</h2></summary>
+
+|Month|Talk|Speaker|Links|
+|---|---|---|---|
+|February|Foiling Jason Schemes - An adventure into json schemas. Json schema fakers and what goes into both!|Ryan||
+
+</details>
+
+<details open markdown="1">
 <summary><h2>2025</h2></summary>
 
 |Month|Talk|Speaker|Links|
