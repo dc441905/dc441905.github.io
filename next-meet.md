@@ -2,4 +2,4 @@ Our next meet will be taking place on the 25th March (Note this a Wednesday, not
 
 Our speaker will be:
 
-* TBC
+* Dan Little with their talk "Attacking Active Directory: 103"
