@@ -11,6 +11,7 @@ title: Previous talks
 
 |Month|Talk|Speaker|Links|
 |---|---|---|---|
+|March|Attacking Active Directory: 103|Dan Little||
 |February|Foiling Jason Schemes - An adventure into json schemas. Json schema fakers and what goes into both!|Ryan||
 
 </details>
