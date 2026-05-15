@@ -11,6 +11,7 @@ title: Previous talks
 
 |Month|Talk|Speaker|Links|
 |---|---|---|---|
+|April|Defence Cyber Certification (DCC) Scheme: From the Horse’s Mouth|Emma Philpott||
 |March|Attacking Active Directory: 103|Dan Little|[YouTube](https://www.youtube.com/watch?v=qyQC2LKTjEU)<br>[Presentation](https://github.com/Mr-Whiskerss/Talks/raw/refs/heads/main/AD103_v2_You_Have_Credentials.pptx)|
 |February|Foiling Jason Schemes - An adventure into json schemas. Json schema fakers and what goes into both!|Ryan||
 
