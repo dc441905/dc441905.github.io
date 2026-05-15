@@ -8,7 +8,9 @@ Chat with us on [Discord](https://discord.gg/rXvnkav) and watch our recorded tal
 
 If you have a talk that you would like to present then please make contact with us. We only record talks with the speakers consent. You can DM us on [Discord](https://discord.gg/rXvnkav) or drop an email to info@dc441905.org
 
-We normally meet on the 3rd Tuesday of each month at 7pm.
+We normally meet on the 3rd Wenesday of each month at 7pm.
+
+> Note: We used to be Tuesday, but based on venue availability have moved to Wednesdays. Update your calendars!
 
 # Next meet
 
