@@ -10,8 +10,6 @@ If you have a talk that you would like to present then please make contact with 
 
 We normally meet on the 3rd Wenesday of each month at 7pm.
 
-> Note: We used to be Tuesday, but based on venue availability have moved to Wednesdays. Update your calendars!
-
 # Next meet
 
 {% include_relative next-meet.md %}
