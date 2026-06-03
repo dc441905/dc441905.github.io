@@ -2,4 +2,4 @@ Our next meet will be taking place on the 1st July at 7pm in person at [Arch Riv
 
 Our speaker will be:
 
-*  TBC
+*  Andy Swift with their talk "Feature-Oriented Exploitation"
