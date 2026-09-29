@@ -11,6 +11,7 @@ title: Previous talks
 
 |Month|Talk|Speaker|Links|
 |---|---|---|---|
+|August|First hour of incident response: every second logs|George Chapman||
 |July|Feature-Oriented Exploitation|Andy Swift|[YouTube](https://www.youtube.com/watch?v=bYNAwPNj9RI)|
 |May|Who put your name in the Cyber Trifecta cup|Neal Smyth||
 |April|Defence Cyber Certification (DCC) Scheme: From the Horse’s Mouth|Emma Philpott||
