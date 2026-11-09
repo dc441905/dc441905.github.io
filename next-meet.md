@@ -2,4 +2,4 @@ Our next meet will be taking place on the 21st October at 7pm in person at [Arch
 
 Our speaker will be:
 
-*  Talking about Incident Response and a real life situation. More details to follow.
+*  Dan Little with their talk "You want to be a Pentester? UK edition"
