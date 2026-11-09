@@ -11,6 +11,7 @@ title: Previous talks
 
 |Month|Talk|Speaker|Links|
 |---|---|---|---|
+|October|Interactive incident table top|Simon||
 |September|Out of Bounds"|Ross Mitchell||
 |August|First hour of incident response: every second logs|George Chapman||
 |July|Feature-Oriented Exploitation|Andy Swift|[YouTube](https://www.youtube.com/watch?v=bYNAwPNj9RI)|
